@@ -75,6 +75,7 @@ USE_OPENGL_RENDERER := true
 VSYNC_EVENT_PHASE_OFFSET_NS := 7500000
 SF_VSYNC_EVENT_PHASE_OFFSET_NS := 5000000
 TARGET_USES_ION := true
+TARGET_USE_ION_COMPAT := true
 
 # Define kernel config for inline building
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
