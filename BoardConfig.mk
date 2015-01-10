@@ -79,7 +79,7 @@ TARGET_USE_ION_COMPAT := true
 
 # Define kernel config for inline building
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
-TARGET_KERNEL_CONFIG := validus_shamu_defconfig
+TARGET_KERNEL_CONFIG := shamu_defconfig
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 
 # Recovery
