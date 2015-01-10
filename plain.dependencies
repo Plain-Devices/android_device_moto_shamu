@@ -1,10 +1,10 @@
 [
   {
-  "repository": "Plain-Devices/android_kernel_moto_shamu",
+  "repository": "android_kernel_moto_shamu",
   "target_path": "kernel/moto/shamu"
   },
   {
-   "repository": "Plain-Devices/proprietary_vendor_motorola",
+   "repository": "proprietary_vendor_motorola",
    "target_path": "vendor/moto"
   }	
 ]
